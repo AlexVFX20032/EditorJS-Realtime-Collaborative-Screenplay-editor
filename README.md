@@ -13,6 +13,7 @@ The firt versión that can be used on collaborative mode using websockets.
 ## ROADMAP
 
 - [x] Realtime editing with websockets
+- [x] List to save events until insert.block finish to prevent blocking an update event
 - [ ] Realtime update when delete a block
 - [ ] Adjust response time
 - [ ] Blocking a block for rest of users when another one focus it to edit
