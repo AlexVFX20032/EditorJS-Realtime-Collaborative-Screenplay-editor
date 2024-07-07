@@ -12,7 +12,7 @@ The firt versión that can be used on collaborative mode using websockets.
 
 ## ROADMAP
 
-- [x] Basic EditoJS septup as a bubble.io plugin
+- [x] Basic EditorJS septup as a bubble.io plugin
 - [x] Custom blocks for screenplay and custom format
 - [x] Realtime editing with websockets
 - [x] List to save events until insert.block finish to prevent blocking an update event
