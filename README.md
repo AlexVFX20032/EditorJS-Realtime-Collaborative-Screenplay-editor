@@ -16,7 +16,7 @@ The firt versión that can be used on collaborative mode using websockets.
 - [x] Custom blocks for screenplay and custom format
 - [x] Realtime editing with websockets
 - [x] List to save events until insert.block finish to prevent blocking an update event
-- [ ] Realtime update when delete a block
-- [ ] Adjust response time
+- [x] Realtime update when delete a block
+- [x] Adjust response time
 - [ ] Blocking a block for rest of users when another one focus it to edit
 - [ ] Realtime see coursor of another users on your screen
